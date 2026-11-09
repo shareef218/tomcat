@@ -18,7 +18,7 @@ public class HelloServlet extends HttpServlet {
         out.println("<html>");
         out.println("<head><title>Mini Java App</title></head>");
         out.println("<body>");
-        out.println("<h2>Hello shaik application deployed on Tomcat!</h2>");
+        out.println("<h2>Thambi ni application deployed on Tomcat!</h2>");
         out.println("<p>Current Server Time: " + new java.util.Date() + "</p>");
         out.println("</body>");
         out.println("</html>");
